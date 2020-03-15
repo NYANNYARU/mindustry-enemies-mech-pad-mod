@@ -22,7 +22,7 @@
         "shots":16,
         "spacing": 0,
         "inaccuracy": 2.0,
-        "shotDelay": 3,
+        "shotDelay": 2,
         "alternate": true,
         "bullet": "missileRevenant",
         "shootSound": "missile"
