@@ -7,8 +7,9 @@
 	"hitsize": 20,
 	"speed": 0.2,
 	"drag": 0.4,
-  "buildPower": 10,
-  "mineSpeed": 10,
+	"drillPower": 4,
+        "buildPower": 10,
+        "mineSpeed": 10,
 	"itemCapacity": 200,
 	"weapon": {
 		"name": "eradication-gun",
