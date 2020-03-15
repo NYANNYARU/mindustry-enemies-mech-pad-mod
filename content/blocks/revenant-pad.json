@@ -1,0 +1,26 @@
+{
+    "type": "MechPad",
+    "mech": "revenant-mech",
+    "name": "revenant-pad",
+    "description": "I can become revenant.",
+    "size": 5,
+    "itemCapacity": 90,
+    "consumes": {
+         "power": 1.5,
+         "items": {
+              "items": [
+                   {"item":"silicon", "amount":75},
+                   {"item":"titanium", "amount":50}
+              ]
+         }
+    },
+    "category": "upgrade",
+    "research": "dart-mech-pad"
+    "requirements": [
+		    { "item": "lead", "amount": 500 },
+		    { "item": "silicon", "amount": 400 },
+        { "item": "titanium", "amount": 250 },
+		    { "item": "phase-fabric", "amount": 50 },
+        { "item": "surge-alloy", "amount": 250 }
+	]
+}
