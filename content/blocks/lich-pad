@@ -1,0 +1,26 @@
+{
+    "type": "MechPad",
+    "mech": "lich-mech",
+    "name": "lich-pad",
+    "description": "I can become lich.",
+    "size": 6,
+    "itemCapacity": 90,
+    "consumes": {
+         "power": 1.5,
+         "items": {
+              "items": [
+                   {"item":"silicon", "amount":100},
+                   {"item":"titanium", "amount":75}
+              ]
+         }
+    },
+    "category": "upgrade",
+    "research": "dart-mech-pad",
+    "requirements": [
+		    { "item": "lead", "amount": 750 },
+		    { "item": "silicon", "amount": 600 },
+        { "item": "titanium", "amount": 375 },
+		    { "item": "phase-fabric", "amount": 75 },
+        { "item": "surge-alloy", "amount": 375 }
+	]
+}
