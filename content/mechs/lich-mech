@@ -1,0 +1,28 @@
+{
+    "type": "mech",
+    "name": "Lich",
+    "description": "lich",
+    "speed": 0.15,
+    "maxVelocity": 0.1,
+    "flying":true,
+    "drag": 0.1,
+    "engineSize": 5,
+    "engineOffset": 25,
+    "hitsize": 17.5,
+    "mass": 20,
+    "health": 6000,
+    "itemCapacity": 150,
+    "buildpower": 7.5,
+    "engineColor": "f86934",
+    "weapon":{
+        "name": "revenant-missiles",
+        "length":10,
+        "width":10.0,
+        "reload":70.0,
+        "shots":2,
+        "spacing": 5,
+        "alternate": true,
+        "bullet": "missileRevenant",
+        "shootSound": "missile"
+    }
+}
