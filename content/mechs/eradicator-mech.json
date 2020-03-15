@@ -12,7 +12,7 @@
 	"itemCapacity": 200,
 	"weapon": {
 		"name": "eradication-gun",
-		"width": 50,
+		"width": 12,
         "reload": 30,
         "nimPlayerDist": 50,
         "length": 22,
