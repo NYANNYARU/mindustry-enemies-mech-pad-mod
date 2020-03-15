@@ -16,8 +16,8 @@
     "engineColor": "f86934",
     "weapon":{
         "name": "revenant-missiles",
-        "length":10,
-        "width":10.0,
+        "length":7.5,
+        "width":15.0,
         "reload":170,
         "shots":16,
         "spacing": 0,
