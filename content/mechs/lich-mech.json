@@ -7,7 +7,7 @@
     "flying":true,
     "drag": 0.1,
     "engineSize": 5,
-    "engineOffset": 25,
+    "engineOffset": 20,
     "hitsize": 17.5,
     "mass": 20,
     "health": 6000,
