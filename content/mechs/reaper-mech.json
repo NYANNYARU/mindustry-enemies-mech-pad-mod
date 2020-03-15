@@ -18,7 +18,8 @@
 	"health": 11000,
 	"weapon": {
 		"name": "reaper-gun",
-		"length": 40,
+		"length": 22.5,
+		"width": 35
 		"reload": 20,
 		"alternate": true,
 		"shootSound": "shootBig",
