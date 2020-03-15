@@ -1,0 +1,30 @@
+{
+    "type": "mech",
+    "name": "Revenant",
+    "description": "revenant",
+    "speed": 0.25,
+    "maxVelocity": 0.1,
+    "flying":true,
+    "drag": 0.1,
+    "engineSize": 3,
+    "engineOffset": 12,
+    "hitsize": 4,
+    "mass": 5,
+    "health": 1000,
+    "itemCapacity": 100,
+    "buildpower": 5,
+    "engineColor": "f86934",
+    "weapon":{
+        "name": "revenant-missiles",
+        "length":3.0,
+        "width":10.0,
+        "reload":70.0,
+        "shots":2,
+        "spacing": 1,
+        "inaccuracy": 1,
+        "alternate": true,
+        "ejectEffect": "none",
+        "bullet": "missileJavelin",
+        "shootSound": "missile"
+    }
+}
