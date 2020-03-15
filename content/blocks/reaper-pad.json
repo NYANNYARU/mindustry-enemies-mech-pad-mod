@@ -3,7 +3,7 @@
 	"description": "I can become reaper",
 	"type": "MechPad",
 	"itemCapacity": "300",
-	"mech": "reaper",
+	"mech": "reaper-mech",
 	"size": 8,
 	"consumes": {
 		"power": 2,
