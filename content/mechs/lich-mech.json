@@ -15,7 +15,7 @@
     "buildpower": 7.5,
     "engineColor": "f86934",
     "weapon":{
-        "name": "revenant-missiles",
+        "name": "lich-missiles",
         "length":6,
         "width":17.5,
         "reload":160,
