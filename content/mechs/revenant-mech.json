@@ -24,7 +24,7 @@
         "inaccuracy": 1,
         "alternate": true,
         "ejectEffect": "none",
-        "bullet": "MissileBulletType",
+        "bullet": "missileRevenant",
         "shootSound": "missile"
     }
 }
