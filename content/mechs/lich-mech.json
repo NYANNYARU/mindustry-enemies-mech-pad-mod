@@ -20,7 +20,7 @@
         "width":10.0,
         "reload":70.0,
         "shots":16,
-        "alternate": false,
+        "alternate": true,
         "bullet": "missileRevenant",
         "shootSound": "missile"
     }
