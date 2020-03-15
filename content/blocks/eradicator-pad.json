@@ -1,0 +1,26 @@
+{
+	"name": "reaper-mech-pad",
+	"description": "I can become reaper",
+	"type": "MechPad",
+	"itemCapacity": "400",
+	"mech": "eradicator-mech",
+	"size": 8,
+	"consumes": {
+		"power": 3,
+         "items": {
+              "items": [
+                   {"item":"graphite", "amount":200},
+                   {"item":"titanium", "amount":200}
+              ]
+         }
+	},
+	"category": "upgrade",
+	"research": "dart-mech-pad",
+	"requirements": [
+		{ "item": "lead", "amount": 1000 },
+		{ "item": "silicon", "amount": 800 },
+                { "item": "titanium", "amount": 500 },
+		{ "item": "phase-fabric", "amount": 100 },
+                { "item": "surge-alloy", "amount": 500 }
+	]
+}
