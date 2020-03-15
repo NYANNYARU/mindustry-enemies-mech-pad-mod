@@ -16,10 +16,9 @@
 	"engineSize": 7.3,
 	"engineOffset": 40,
 	"health": 11000,
-	"weaponOffsetY": 14,
 	"weapon": {
 		"name": "reaper-gun",
-		"length": 20,
+		"length": 40,
 		"reload": 20,
 		"alternate": true,
 		"shootSound": "shootBig",
