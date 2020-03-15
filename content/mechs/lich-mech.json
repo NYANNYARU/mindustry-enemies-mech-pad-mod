@@ -24,7 +24,7 @@
         "reload":160,
         "shots":16,
         "spacing": 0,
-        "inaccuracy": 2.0,
+        "inaccuracy": 10,
         "shotDelay": 2,
         "alternate": true,
         "bullet": "missileRevenant",
