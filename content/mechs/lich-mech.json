@@ -18,7 +18,7 @@
         "name": "revenant-missiles",
         "length":6,
         "width":17.5,
-        "reload":170,
+        "reload":150,
         "shots":16,
         "spacing": 0,
         "inaccuracy": 2.0,
