@@ -1,0 +1,30 @@
+{
+	"name": "Eradicator",
+	"description": "eradicator",
+	"health": 9000,
+	"mass": 5,
+	"flying": false,
+	"hitsize": 20,
+	"speed": 0.12,
+	"drag": 0.4,
+  "buildPower": 10,
+  "mineSpeed": 10,
+	"itemCapacity": 200,
+	"weapon": {
+		"name": "eradication-gun",
+		"width": 13,
+        "reload": 30,
+        "nimPlayerDist": 50,
+        "length": 22,
+        "alternate": true,
+        "recoil": 3,
+        "shake": 2,
+        "inaccuracy": 3,
+        "shots": 4,
+        "spacing": 0,
+        "shotDelay": 3,
+        "ejectEffect": "shellEjectMedium",
+        "bullet": "standardThoriumBig",
+        "shootSound": "shootBig"
+  }
+}
