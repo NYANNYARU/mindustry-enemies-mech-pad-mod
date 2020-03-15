@@ -1,0 +1,25 @@
+{
+	"name": "reaper-mech-pad",
+	"description": "I can become reaper",
+	"type": "MechPad",
+	"mech": "reaper-mech",
+	"size": 8,
+	"consumes": {
+		"power": 2,
+         "items": {
+              "items": [
+                   {"item":"silicon", "amount":150},
+                   {"item":"titanium", "amount":100}
+              ]
+         }
+	},
+	"category": "upgrade",
+	"research": "dart-mech-pad",
+	"requirements": [
+		{ "item": "lead", "amount": 1000 },
+		{ "item": "silicon", "amount": 800 },
+    { "item": "titanium", "amount": 500 },
+		{ "item": "phase-fabric", "amount": 100 },
+    { "item": "surge-alloy", "amount": 500 }
+	]
+}
