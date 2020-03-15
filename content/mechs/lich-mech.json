@@ -17,7 +17,7 @@
     "weapon":{
         "name": "lich-gun",
         "length":6,
-        "width":17.5,
+        "width":19,
         "reload":160,
         "shots":16,
         "spacing": 0,
