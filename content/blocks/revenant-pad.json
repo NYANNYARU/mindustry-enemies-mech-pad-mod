@@ -15,7 +15,7 @@
          }
     },
     "category": "upgrade",
-    "research": "dart-mech-pad"
+    "research": "dart-mech-pad",
     "requirements": [
 		    { "item": "lead", "amount": 500 },
 		    { "item": "silicon", "amount": 400 },
