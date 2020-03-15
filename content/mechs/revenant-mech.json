@@ -12,6 +12,8 @@
     "mass": 5,
     "health": 1000,
     "itemCapacity": 100,
+    "mineSpeed":5,
+    "drillPower":3,
     "buildpower": 5,
     "engineColor": "f86934",
     "weapon":{
