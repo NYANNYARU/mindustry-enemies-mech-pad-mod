@@ -1,0 +1,27 @@
+{
+	"name": "Reaper",
+	"description": "reaper",
+	"speed": 0.1,
+	"drillPower": 4,
+	"mineSpeed": 10,
+	"hitsize": 25,
+	"mass": 30,
+	"drag": 0.1,
+	"itemCapacity": 200,
+	"buildPower": 10,
+	"engineColor": "f86934",
+	"flying": true,
+	"rotateWeapon": true,
+	"engineSize": 7.3,
+	"engineOffset": 40,
+	"health": 11000,
+	"weaponOffsetX": 14,
+	"weapon": {
+		"name": "reaper-gun",
+		"length": 20,
+		"reload": 20,
+		"alternate": true,
+		"shootSound": "shootBig",
+		"bullet": "standardThoriumBig"
+	}
+}
