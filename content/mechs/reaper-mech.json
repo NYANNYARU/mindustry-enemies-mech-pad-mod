@@ -1,4 +1,5 @@
 {
+	"type": "mech",
 	"name": "Reaper",
 	"description": "reaper",
 	"speed": 0.1,
