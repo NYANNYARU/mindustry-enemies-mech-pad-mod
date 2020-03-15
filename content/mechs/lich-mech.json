@@ -20,6 +20,7 @@
         "width":10.0,
         "reload":170,
         "shots":16,
+        "spacing": 0,
         "inaccuracy": 2.0,
         "shotDelay": 1,
         "alternate": true,
