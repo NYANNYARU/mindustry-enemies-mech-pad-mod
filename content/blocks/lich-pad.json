@@ -4,7 +4,7 @@
     "name": "lich-pad",
     "description": "I can become lich.",
     "size": 6,
-    "itemCapacity": 90,
+    "itemCapacity": 200,
     "consumes": {
          "power": 1.5,
          "items": {
