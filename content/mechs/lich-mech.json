@@ -24,7 +24,7 @@
         "inaccuracy": 2.0,
         "shotDelay": 2,
         "alternate": true,
-        "bullet": "missileRevenant",
+        "bullet": "missileLich",
         "shootSound": "missile"
     }
 }
