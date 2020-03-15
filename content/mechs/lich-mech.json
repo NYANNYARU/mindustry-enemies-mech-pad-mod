@@ -18,9 +18,9 @@
         "name": "revenant-missiles",
         "length":10,
         "width":10.0,
-        "reload":70.0,
+        "reload":120,
         "shots":16,
-        "shotDelay": 1000,
+        "shotDelay": 100,
         "alternate": true,
         "bullet": "missileRevenant",
         "shootSound": "missile"
