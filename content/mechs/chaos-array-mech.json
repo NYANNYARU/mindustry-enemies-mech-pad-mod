@@ -17,9 +17,9 @@
 	"weapon": {
 		  "name": "chaos-array-gun",
       "bullet": {
-	      "type":"ArtilleryBulletType",
+	      "type":"bombExplosive",
 	      "lightining": 6,
-      	      "lightningLength":2,
+      	      "lightningLength":100,
 	      "speed": 5,
 	      "bulletWidth": 10,
               "bulletHeight": 8.5,
