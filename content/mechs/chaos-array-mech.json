@@ -1,1 +1,36 @@
-
+{
+	"name": "Chaos-array",
+	"description": "chaos-array",
+	"health": 3000,
+	"mass": 5,
+	"flying": false,
+	"hitsize": 20,
+	"speed": 0.25,
+	"drag": 0.4,
+	"drillPower": 4,
+        "buildPower": 7.5,
+        "mineSpeed": 7.5,
+	"itemCapacity": 150,
+	"engineSize": 5,
+	"engineOffset": 13,
+	"engineColor": "f86934",
+	"weapon": {
+		  "name": "chaos-array-gun",
+      "bullet": "ArtilleryBulletType",
+      "lightining": 2,
+      "lightningLength":5,
+		  "width": 20,
+      "reload": 60,
+      "nimPlayerDist": 50,
+      "length": 22,
+      "alternate": true,
+      "recoil": 3,
+      "shake": 2,
+      "inaccuracy": 3,
+      "shots": 4,
+      "spacing": 0,
+      "shotDelay": 3,
+	    "ejectEffect": "shellEjectMedium",
+   	  "shootSound": "shootBig"
+  	}
+}
