@@ -1,0 +1,26 @@
+{
+	"name": "chaos-array-mech-pad",
+	"description": "I can become chaos-array",
+	"type": "MechPad",
+	"itemCapacity": "300",
+	"mech": "chaos-array-mech",
+	"size": 6,
+	"consumes": {
+		"power": 2,
+         "items": {
+              "items": [
+                   {"item":"graphite", "amount":150},
+                   {"item":"titanium", "amount":150}
+              ]
+         }
+	},
+	"category": "upgrade",
+	"research": "dart-mech-pad",
+	"requirements": [
+		{ "item": "lead", "amount": 750 },
+		{ "item": "silicon", "amount": 600 },
+                { "item": "titanium", "amount": 375 },
+		{ "item": "phase-fabric", "amount": 75 },
+                { "item": "surge-alloy", "amount": 375 }
+	]
+}
