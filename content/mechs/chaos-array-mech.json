@@ -18,8 +18,8 @@
 		  "name": "chaos-array-gun",
       "bullet": {
 	      "type":"ArtilleryBulletType",
-	      "lightining": 2,
-      	      "lightningLength":1000
+	      "lightining": 6,
+      	      "lightningLength":2,
 	      "speed": 5,
 	      "bulletWidth": 10,
               "bulletHeight": 8.5,
