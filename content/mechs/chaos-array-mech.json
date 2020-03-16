@@ -20,9 +20,12 @@
 	      "type":"ArtilleryBulletType",
 	      "lightining": 2,
       	      "lightningLength":5
-      }
+	      "speed": 3,
+	      "bulletWidth": 12,
+              "bulletHeight": 12,
+      },
 		  "width": 17.5,
-      "reload": 50,
+      "reload": 20,
       "nimPlayerDist": 50,
       "length": 22,
       "alternate": true,
