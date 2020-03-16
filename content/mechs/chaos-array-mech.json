@@ -16,15 +16,8 @@
 	"engineColor": "f86934",
 	"weapon": {
 		  "name": "chaos-array-gun",
-      "bullet": {
-	      "type":"bombExplosive",
-	      "lightining": 6,
-      	      "lightningLength":100,
-	      "speed": 5,
-	      "bulletWidth": 10,
-              "bulletHeight": 8.5,
-      },
-		  "width": 17.5,
+      "bullet":"bombExplosive",
+      "width": 17.5,
       "reload": 60,
       "nimPlayerDist": 50,
       "length": 22,
