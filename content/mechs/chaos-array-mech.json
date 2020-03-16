@@ -16,9 +16,11 @@
 	"engineColor": "f86934",
 	"weapon": {
 		  "name": "chaos-array-gun",
-      "bullet": "ArtilleryBulletType",
-      "lightining": 2,
-      "lightningLength":5,
+      "bullet": {
+	      "type":"ArtilleryBulletType",
+	      "lightining": 2,
+      	      "lightningLength":5
+      }
 		  "width": 17.5,
       "reload": 50,
       "nimPlayerDist": 50,
