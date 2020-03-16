@@ -20,7 +20,7 @@
       "lightining": 2,
       "lightningLength":5,
 		  "width": 17.5,
-      "reload": 60,
+      "reload": 50,
       "nimPlayerDist": 50,
       "length": 22,
       "alternate": true,
