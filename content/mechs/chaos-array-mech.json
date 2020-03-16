@@ -19,13 +19,13 @@
       "bullet": {
 	      "type":"ArtilleryBulletType",
 	      "lightining": 2,
-      	      "lightningLength":5
-	      "speed": 3,
-	      "bulletWidth": 12,
-              "bulletHeight": 12,
+      	      "lightningLength":1000
+	      "speed": 5,
+	      "bulletWidth": 10,
+              "bulletHeight": 8.5,
       },
 		  "width": 17.5,
-      "reload": 20,
+      "reload": 60,
       "nimPlayerDist": 50,
       "length": 22,
       "alternate": true,
