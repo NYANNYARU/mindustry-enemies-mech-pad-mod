@@ -16,7 +16,7 @@
 	"engineColor": "f86934",
 	"weapon": {
 		  "name": "chaos-array-gun",
-      "bullet":"bombExplosive",
+      "bullet":"flakSurge",
       "width": 17.5,
       "reload": 60,
       "nimPlayerDist": 50,
