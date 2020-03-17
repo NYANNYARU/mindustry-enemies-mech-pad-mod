@@ -15,7 +15,7 @@
 	"engineOffset": 15,
 	"engineColor": "f86934",
 	"weapon": {
-		"name": "eradication-gun",
+		"name": "eradicator-gun",
 		"width": 20,
 		"length": 5,
            	"reload": 30,
