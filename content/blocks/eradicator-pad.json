@@ -1,6 +1,6 @@
 {
-	"name": "reaper-mech-pad",
-	"description": "I can become reaper",
+	"name": "eradicator-mech-pad",
+	"description": "I can become eradicator",
 	"type": "MechPad",
 	"itemCapacity": "400",
 	"mech": "eradicator-mech",
