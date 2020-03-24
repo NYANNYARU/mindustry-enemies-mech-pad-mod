@@ -17,5 +17,20 @@
     "mineSpeed":7.5,
     "drillPower":4,
     "engineColor": "f86934",
-    "weapon": "lich-missiles"
+    "weapon":{
+        "name": "lich-gun",
+        "length": 4,
+        "reload": 160,
+        "width": 22,
+        "shots": 16,
+        "shootCone": 100,
+        "shotDelay": 2,
+        "inaccuracy": 10,
+        "alternate": true,
+        "ejectEffect": "none",
+        "velocityRnd": 0.2,
+        "spacing": 1,
+        "bullet": "missileRevenant",
+        "shootSound": "artillery",
+    }
 }
