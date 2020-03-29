@@ -12,7 +12,7 @@
     "mass": 20,
     "health": 6000,
     "itemCapacity": 150,
-    "buildpower": 7.5,
+    "buildPower": 7.5,
     "rotateWeapon": true,
     "mineSpeed":7.5,
     "drillPower":4,
