@@ -18,6 +18,10 @@
     "attackLength": 90,
     "baseRotateSpeed": 0.04,
     "weaponOffsetX": 22,
+    "drillPower": 4,
+    "buildPower": 7.5,
+    "mineSpeed": 7.5,
+    "itemCapacity": 150,
     "weapon":{
         "name": "lich-gun",
         "length": 4,
