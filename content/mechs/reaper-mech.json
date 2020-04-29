@@ -8,7 +8,7 @@
 	"mass": 30,
 	"hitsize": 56,
 	"maxVelocity": 0.6,
-	"drag": 0.02,
+	"drag": 0.01,
 	"shootCone": 30,
 	"flying": true,
 	"rotateWeapons": true,
