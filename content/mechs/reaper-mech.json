@@ -15,10 +15,11 @@
 	"engineOffset": 40,
 	"engineSize": 7.3,
 	"rotatespeed": 0.01,
-	"baseRotateSpeed": 0.04
+	"baseRotateSpeed": 0.04,
 	"itemCapacity": 200,
 	"buildPower": 10,
 	"health": 11000,
+	"weaponOffsetX": "32"
 	"weapon": {
 		"name": "reaper-gun",
 		"length": 3,
