@@ -8,7 +8,6 @@
 	"mass": 30,
 	"hitsize": 56,
 	"maxVelocity": 0.6,
-	"drag": 0.01,
 	"shootCone": 30,
 	"flying": true,
 	"rotateWeapons": true,
@@ -19,7 +18,7 @@
 	"itemCapacity": 200,
 	"buildPower": 10,
 	"health": 11000,
-	"weaponOffsetX": "32"
+	"weaponOffsetX": "32",
 	"weapon": {
 		"name": "reaper-gun",
 		"length": 3,
