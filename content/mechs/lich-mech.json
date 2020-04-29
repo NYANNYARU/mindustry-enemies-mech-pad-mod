@@ -5,7 +5,8 @@
     "health": 6000,
     "mass": 20,
     "hitsize": 40,
-    "speed": 0.15,
+    "speed": 0.5,
+    "drag": 0.02
     "maxVelocity": 0.6,
     "range": 80,
     "shootCone": 20,
