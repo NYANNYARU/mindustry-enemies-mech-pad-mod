@@ -11,7 +11,7 @@
     "range": 80,
     "shootCone": 20,
     "flying": true,
-    "rotateWeapons" true,
+    "rotateWeapons": true,
     "engineOffset": 21,
     "engineSize": 5.3,
     "rotatespeed": 0.01,
