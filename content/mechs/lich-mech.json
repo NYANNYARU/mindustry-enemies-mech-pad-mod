@@ -17,6 +17,7 @@
     "rotatespeed": 0.01,
     "attackLength": 90,
     "baseRotateSpeed": 0.04,
+    "weaponOffsetX": 22,
     "weapon":{
         "name": "lich-gun",
         "length": 4,
