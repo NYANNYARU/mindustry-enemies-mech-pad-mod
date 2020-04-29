@@ -2,7 +2,7 @@
 	"type": "mech",
 	"name": "Reaper",
 	"description": "reaper",
-	"speed": 0.1,
+	"speed": 0.025,
 	"drillPower": 4,
 	"mineSpeed": 10,
 	"mass": 30,
