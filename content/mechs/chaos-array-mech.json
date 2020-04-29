@@ -15,6 +15,7 @@
 	"engineSize": 5,
 	"engineOffset": 13,
 	"engineColor": "f86934",
+	"weaponOffsetX": 17,
 	"weapon": {
 	    "name": "chaos-array-gun",
             "length": 8,
