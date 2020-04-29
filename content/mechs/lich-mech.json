@@ -18,7 +18,7 @@
     "drillPower":4,
     "engineColor": "f86934",
     "weapon":{
-        "name": "lich-gun",
+        "name": "lich-missiles-equip",
         "length": 4,
         "reload": 160,
         "width": 22,
