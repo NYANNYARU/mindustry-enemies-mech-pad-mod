@@ -3,7 +3,7 @@
 	"name": "Reaper",
 	"description": "reaper",
 	"speed": 0.04,
-	"drag": 0.08,
+	"drag": 0.06,
 	"drillPower": 4,
 	"mineSpeed": 10,
 	"mass": 30,
